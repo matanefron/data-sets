@@ -2,6 +2,8 @@
 
 #### Instructions
 
++ In your OWN REPO
 + Please create a folder named after you
 + create a readme.md file with a short bio about yourself 
 + Feel free to embed an image!
++ NEVER PUSH TO THIS REPO

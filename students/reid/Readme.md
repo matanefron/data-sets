@@ -2,7 +2,8 @@
 
 #### Personable Introduction:
 
-+ Hey, I'm Reid: your instructor for the GA data science class!
++ Hey, I'm Reid: <img src="https://www.dropbox.com/s/drbbydk6lxpj9hy/2017-02-12%2016.31.47.jpg" width="100">
++ your instructor for the GA data science class!
 + I'm a data scientist at <img src="https://www.glooko.com/wp-content/uploads/logo-web.png" width="100">
 + DS-32 forever! You folks are the best!!!!
 + I published a [cool paper](http://link.springer.com/article/10.1007%2Fs10508-016-0824-1) over the summer about a vulnerable population of women
